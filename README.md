@@ -12,4 +12,4 @@ Usage Example
 
 check_if_util.py -i eth1 -w 80 -c 95 -n 5
 
-_takes 5 readings over 5 seconds on eth0_
+_takes 5 readings over 5 seconds on eth1_
