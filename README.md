@@ -3,6 +3,8 @@ check_if_util
 
 Nagios plugion to check network interface %utilization.
 
+Requires [nicstat](http://sourceforge.net/projects/nicstat/) to be installed and in $PATH
+
 Takes _n_ readings over _n_ seconds and averages %utilization.
 
 Usage Example
